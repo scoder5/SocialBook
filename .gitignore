@@ -1,0 +1,32 @@
+# Virtual environment
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Django settings
+*.env
+*.pyc
+*.pyo
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Database
+db.sqlite3
+
+# Static files
+staticfiles/
+
+# Media
+media/
+
+# Secret key
+*.secret
+
+# Logs
+*.log
